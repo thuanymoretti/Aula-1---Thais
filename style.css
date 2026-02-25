@@ -1,5 +1,9 @@
 body{
-    background-image: url(assets/f7baf3141128e81674c39cae92f97ec9.jpg);
+    background-color: black;
+    background-image: url(assets/ea7fa631cdfd5d39c5ceddaf492757cf.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    
 
 }
