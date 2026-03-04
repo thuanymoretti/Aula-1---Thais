@@ -1,3 +1,42 @@
-body{
-    color: black;
+body {
+    background-color: black;
+     color: azure;
+}
+
+img { 
+    height:  1000px;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#icon{
+    width: 10%;
+    height:auto ;   
+}
+
+h2 {
+   color: rgb(63, 104, 240) ;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: xx-large;
+}
+
+p {
+   color: rgb(190, 203, 248) ;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+   color: rgb(246, 247, 250) ;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: xx-large;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
 }
